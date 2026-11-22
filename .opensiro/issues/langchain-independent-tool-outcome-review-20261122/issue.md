@@ -111,3 +111,7 @@ Incremental implementation, latency and reviewer model tokens all **NOT_MEASURED
 **Rights and publication:** DRAFT — NOT PUBLISHED. No original/fork public GitHub Issue, comment, PR, or product code. Separate exact current-conversation owner approval is mandatory for each outward action. Another agent's later competing #58 reservation must be checked before a fork write.
 
 **AI disclosure:** AI-assisted source analysis and proposed plan; no verified native tests, production metrics or maintainer decision.
+
+**Public fork Issue title (draft only):** LangChain — optional independent tool-outcome review (Opensiro roadmap)
+
+**Public fork Issue body (draft only):** The eight-section Human proposal above is the exact canonical draft body; public rendering replaces draft status and freezes internal case links. It is NOT permission to publish.
